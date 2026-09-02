@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on Superstore sales data using Python to uncover meaningful patterns in sales, profit, customers, discounts, shipping performance, and product-related business metrics.
+This project performs Exploratory Data Analysis (EDA) on Superstore sales data using Python to discover meaningful patterns in sales, profit, customers, discounts, shipping performance, and product-related business metrics.
 
 The analysis focuses not only on visualization but also on data quality, preprocessing, feature engineering, and business-oriented insights.
 
@@ -15,7 +15,7 @@ The analysis focuses not only on visualization but also on data quality, preproc
 - Removed customer names to maintain privacy and created a masked customer identifier.
 - Standardized state names and postal-code formatting.
 
-- Performed feature engineering to derive:
+- Performed feature engineering to find:
   - Original Price
   - Total Sales
   - Total Profit
